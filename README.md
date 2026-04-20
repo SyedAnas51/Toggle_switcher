@@ -1,5 +1,13 @@
 # GCal Toggle Switcher
 
+GROUP #09
+
+Syed Muhammad Anas (22P-9187)
+
+Arsalan (22K-4614)
+
+Hafiz Abdullah (22K-4489)
+
 A pixel-faithful Flutter replica of Google Calendar's segmented Calendar / Tasks toggle button. 
 
 This package provides a highly customizable, animated view switcher that flawlessly mimics the Google Calendar web interface, including sliding highlights, dynamic text expansion, and cross-fading page transitions.
