@@ -1,7 +1,7 @@
 name: gcal_toggle_switcher
-description: "A pixel-faithful replica of Google Calendar's segmented toggle."
+description: "A pixel-faithful replica of Google Calendar's segmented toggle UI."
 version: 0.0.1
-homepage:
+homepage: https://github.com/SyedAnas51/Toggle_switcher
 
 environment:
   sdk: ^3.10.8
